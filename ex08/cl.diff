@@ -1,0 +1,4 @@
+0a1,3
+> #!bin/bash
+> 
+> find -name "*~" -o -name "#*#" -printf %n
